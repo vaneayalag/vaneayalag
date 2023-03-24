@@ -1,4 +1,4 @@
-# Hi I'm Vanessa Ayala G,
+# Hi I'm Vanessa ,
 >http://localhost:8080/Vnessadev/index.html
 ## Web Applications Developer 👩‍💻
 ## International Business Manager
